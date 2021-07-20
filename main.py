@@ -42,7 +42,7 @@ def rcmd(m):
 
         # taking top 1- movie scores
         # not taking the first index since it is the same movie
-        lst = lst[1:11]
+        lst = lst[1:6]
 
         # making an empty list that will containg all 10 movie recommendations
         l = []
