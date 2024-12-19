@@ -12,8 +12,8 @@ Content-based methods are based on the similarity of movie attributes. Using thi
 Collaborative filtering, the system is based on past interactions between users and movies. With this in mind, the input for a collaborative filtering system is made up of past data of user interactions with the movies they watch.
 
 # Problem Statement
-To search for a particular movie people often browse but people can spend hours scrolling through hundreds, of movie but never find the movie that they like.Hence recommendation systems are made which provides suggestions based on their likes which helps people to spend less time on internet.
+To search for a particular movie people often browse but people can spend hours scrolling through hundreds, of movie but never find the movie that they like. Hence recommendation systems are made which provides suggestions based on their likes which helps people to spend less time on internet.
 
 We will be using Movie Lens dataset.
-The goal of this analysis is to analyse the data set, explore it and suggest top recommendations based on the past performance of the user
+The goal of this analysis is to analyse the data set, explore it and suggest top recommendations based on the past performance of the user.
 
